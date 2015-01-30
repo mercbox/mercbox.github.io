@@ -4,4 +4,4 @@ Copyright @ MercBox LLC
 
 # Description
 
-Main public MercBox page.
+Main public MercBox page. This is revised edition.
