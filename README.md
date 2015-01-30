@@ -2,6 +2,6 @@
 
 Copyright @ MercBox LLC
 
-## Descriptioin
+# Description
 
 Main public MercBox page.
